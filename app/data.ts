@@ -100,20 +100,28 @@ export const BLOG_POSTS: BlogPost[] = [
 export const SOCIAL_LINKS: SocialLink[] = [
   {
     label: 'Github',
-    link: 'https://github.com/ibelick',
-  },
-  {
-    label: 'Twitter',
-    link: 'https://twitter.com/ibelick',
+    link: 'https://github.com/HusainBeepBop',
   },
   {
     label: 'LinkedIn',
-    link: 'https://www.linkedin.com/in/ibelick',
+    link: 'www.linkedin.com/in/husain-lokhandwala-0372b82b8',
   },
   {
-    label: 'Instagram',
-    link: 'https://www.instagram.com/ibelick',
+    label: 'Coursera',
+    link: 'https://www.coursera.org/user/dc57e6f12d6a91dc16599bd1c82882ac',
+  },
+  {
+    label: 'YouTube',
+    link: 'www.linkedin.com/in/husain-lokhandwala-0372b82b8',
+  },
+  {
+    label: 'Credly',
+    link: 'https://www.credly.com/users/husain-lokhandwala.6d9a1f01',
+  },
+  {
+    label: 'Duolingo',
+    link: 'https://www.duolingo.com/profile/HusainLokh3',
   },
 ]
 
-export const EMAIL = 'your@email.com'
+export const EMAIL = 'husainlokhandwala33@gmail.com'
